@@ -15,4 +15,4 @@ The project demonstrates how machine learning can be applied to medical data to 
 ---
 
 **Author:** Jatin Solanki  
-This project is for display purposes only.
+
